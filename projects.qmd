@@ -1,0 +1,91 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+Below are selected projects showcasing **business insight, storytelling, dashboards, and analytics workflows**.
+
+---
+
+## 🎮 GameCo Video Game Sales Analysis
+**Header Icon:** 🎮📊
+
+**Overview:**  
+Analyzed global video game sales data to uncover trends in genre popularity, platform performance, and regional demand.
+
+**Key Focus:**
+- Sales trends across regions and time  
+- Top-performing genres and platforms  
+- Data-driven recommendations for product strategy
+
+**Tools:** Excel, Tableau, PowerPoint, SQL  
+
+
+---
+
+## 🦠 Preparing for Influenza Season
+**Header Icon:** 🦠📈
+
+**Overview:**  
+Conducted exploratory and predictive analysis on influenza mortality data to support healthcare staffing and resource allocation decisions.
+
+**Key Focus:**
+- State-level flu mortality trends  
+- Risk analysis for populations aged 65+  
+- Interactive dashboards for planning
+
+**Tools:** Excel, Tableau, Python  
+**Links:**  
+- GitHub: [Repository](https://github.com/Oluwole-Oni/Preparing-for-Influenza-Season)
+
+---
+
+## 🎬 Rockbuster Stealth Data Analysis
+**Header Icon:** 🎬🗄️
+
+**Overview:**  
+Performed advanced SQL analysis on customer, rental, and payment data to support Rockbuster’s transition into online video rentals.
+
+**Key Focus:**
+- Database design & ER diagrams  
+- Customer and revenue analysis  
+- Regional performance insights
+
+**Tools:** PostgreSQL, SQL, Tableau, Power BI, DbVisualizer  
+**Links:**  
+- GitHub: [Repository](https://github.com/Oluwole-Oni/Rockbuster-Stealth-Data-Analysis)
+
+---
+
+## 🛒 Instacart Grocery Basket Analysis
+**Header Icon:** 🛒📦
+
+**Overview:**  
+Analyzed large-scale grocery transaction data to uncover customer purchasing patterns and segmentation insights.
+
+**Key Focus:**
+- Customer loyalty and ordering behavior  
+- Product and department performance  
+- Marketing and sales optimization insights
+
+**Tools:** Python (Pandas, NumPy), Jupyter, Excel  
+**Links:**  
+- GitHub: [Repository](https://github.com/Oluwole-Oni/Instacart-Grocery-Basket-Analysis)
+
+---
+
+## 🔫 Gun Violence in the U.S. (2013–2018)
+**Header Icon:** 🔫📉
+
+**Overview:**  
+Analyzed over 260,000 incidents to uncover temporal, geographic, and severity patterns using exploratory analysis, clustering, and time-series methods.
+
+**Key Focus:**
+- Time-series trends and seasonality  
+- Geographic distribution and hotspots  
+- Clustering of incident types and severity patterns
+
+**Tools:** Python, Tableau, Jupyter  
+**Links:**  
+- GitHub: [Repository](https://github.com/Oluwole-Oni/Gun-Violence-in-the-USA-2013-2018)

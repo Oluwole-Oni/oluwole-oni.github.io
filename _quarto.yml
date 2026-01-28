@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Oluwole Oni | Data Analyst Portfolio"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/Oluwole-Oni
+      - icon: linkedin
+        href: https://www.linkedin.com/in/oluwole-oni-193b49163
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    smooth-scroll: true
+    page-layout: full

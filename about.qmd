@@ -1,0 +1,21 @@
+---
+title: "About"
+---
+
+# About Me
+
+I am a **Data Analyst with a foundation in Mechanical Engineering**, holding a Bachelor of Engineering degree and an Automotive Master Certificate from the Community College of Baltimore County. Over the years, I worked extensively with **diagnostic data, performance metrics, and system troubleshooting**, experiences that shaped my analytical thinking and attention to detail.
+
+My transition into data analytics was driven by a growing interest in how data patterns, trends, and visualizations can influence strategic decisions. Through the **CareerFoundry Data Analytics program**, I gained hands-on experience delivering end-to-end analytics projects using **Python, SQL, Tableau, Excel, and Power BI**.
+
+What sets me apart is the combination of **engineering discipline and data storytelling**. I’m comfortable working with complex datasets and equally comfortable translating insights for non-technical stakeholders. My goal is always to connect analysis to **business value, operational efficiency, and informed decision-making**.
+
+I am currently open to **full-time Data Analyst opportunities** and enjoy collaborating with teams that value clarity, evidence-based strategy, and continuous improvement.
+
+---
+
+## Highlights
+
+- Mechanical Engineering mindset applied to analytics problem-solving  
+- End-to-end projects: cleaning → EDA → insights → dashboards → recommendations  
+- Strong communication for technical and non-technical stakeholders

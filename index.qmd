@@ -1,0 +1,42 @@
+---
+title: "Home"
+---
+
+# Oluwole Oni
+**Data Analyst | Business Intelligence | Data Storytelling**  
+*Turning complex data into clear, actionable business insights*
+
+![](myphoto.png)
+
+---
+
+## 👋 Welcome
+
+I’m a **Data Analyst with a Mechanical Engineering background**, bringing a structured, analytical mindset to data-driven decision-making. My journey from engineering and automotive diagnostics into analytics allows me to approach data problems with precision, curiosity, and a strong focus on real-world impact.
+
+I specialize in **SQL, Python, Tableau, Excel, and Power BI**, working across the full analytics lifecycle—from data cleaning and validation to insight generation and storytelling. I don’t just analyze numbers; I focus on **why patterns exist, what they mean for the business, and how insights can drive smarter decisions**.
+
+---
+
+## 🔧 Core Skills
+
+- Data Analytics & Business Insight  
+- Data Visualization & Storytelling  
+- Exploratory Data Analysis (EDA)  
+- Forecasting & Time Series Analysis  
+- Statistical Testing & Hypothesis Validation  
+- Data Cleaning, Integration & ETL  
+
+---
+
+## 🛠 Tools
+
+Python (Pandas, NumPy) • SQL (PostgreSQL) • Tableau • Power BI • Excel • Jupyter • Anaconda
+
+---
+
+## 📌 Featured Work
+
+Explore projects covering **sales analysis, customer behavior, forecasting, public health, and social impact**, built using Python, SQL, Tableau, and Excel.
+
+👉 **Go to:** [Projects](projects.qmd)
