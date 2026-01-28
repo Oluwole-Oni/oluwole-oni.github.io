@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are selected projects showcasing business insight, storytelling, dashboards, and analytics workflows.\n\n\n\nHeader Icon: 🎮📊\nOverview:\nAnalyzed global video game sales data to uncover trends in genre popularity, platform performance, and regional demand.\nKey Focus: - Sales trends across regions and time\n- Top-performing genres and platforms\n- Data-driven recommendations for product strategy\nTools: Excel, Tableau, PowerPoint, SQL\n\n\n\n\nHeader Icon: 🦠📈\nOverview:\nConducted exploratory and predictive analysis on influenza mortality data to support healthcare staffing and resource allocation decisions.\nKey Focus: - State-level flu mortality trends\n- Risk analysis for populations aged 65+\n- Interactive dashboards for planning\nTools: Excel, Tableau, Python\nLinks:\n- GitHub: Repository\n\n\n\n\nHeader Icon: 🎬🗄️\nOverview:\nPerformed advanced SQL analysis on customer, rental, and payment data to support Rockbuster’s transition into online video rentals.\nKey Focus: - Database design & ER diagrams\n- Customer and revenue analysis\n- Regional performance insights\nTools: PostgreSQL, SQL, Tableau, Power BI, DbVisualizer\nLinks:\n- GitHub: Repository\n\n\n\n\nHeader Icon: 🛒📦\nOverview:\nAnalyzed large-scale grocery transaction data to uncover customer purchasing patterns and segmentation insights.\nKey Focus: - Customer loyalty and ordering behavior\n- Product and department performance\n- Marketing and sales optimization insights\nTools: Python (Pandas, NumPy), Jupyter, Excel\nLinks:\n- GitHub: Repository\n\n\n\n\nHeader Icon: 🔫📉\nOverview:\nAnalyzed over 260,000 incidents to uncover temporal, geographic, and severity patterns using exploratory analysis, clustering, and time-series methods.\nKey Focus: - Time-series trends and seasonality\n- Geographic distribution and hotspots\n- Clustering of incident types and severity patterns\nTools: Python, Tableau, Jupyter\nLinks:\n- GitHub: Repository"
+  },
+  {
+    "objectID": "projects.html#gameco-video-game-sales-analysis",
+    "href": "projects.html#gameco-video-game-sales-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Header Icon: 🎮📊\nOverview:\nAnalyzed global video game sales data to uncover trends in genre popularity, platform performance, and regional demand.\nKey Focus: - Sales trends across regions and time\n- Top-performing genres and platforms\n- Data-driven recommendations for product strategy\nTools: Excel, Tableau, PowerPoint, SQL"
+  },
+  {
+    "objectID": "projects.html#preparing-for-influenza-season",
+    "href": "projects.html#preparing-for-influenza-season",
+    "title": "Projects",
+    "section": "",
+    "text": "Header Icon: 🦠📈\nOverview:\nConducted exploratory and predictive analysis on influenza mortality data to support healthcare staffing and resource allocation decisions.\nKey Focus: - State-level flu mortality trends\n- Risk analysis for populations aged 65+\n- Interactive dashboards for planning\nTools: Excel, Tableau, Python\nLinks:\n- GitHub: Repository"
+  },
+  {
+    "objectID": "projects.html#rockbuster-stealth-data-analysis",
+    "href": "projects.html#rockbuster-stealth-data-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Header Icon: 🎬🗄️\nOverview:\nPerformed advanced SQL analysis on customer, rental, and payment data to support Rockbuster’s transition into online video rentals.\nKey Focus: - Database design & ER diagrams\n- Customer and revenue analysis\n- Regional performance insights\nTools: PostgreSQL, SQL, Tableau, Power BI, DbVisualizer\nLinks:\n- GitHub: Repository"
+  },
+  {
+    "objectID": "projects.html#instacart-grocery-basket-analysis",
+    "href": "projects.html#instacart-grocery-basket-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Header Icon: 🛒📦\nOverview:\nAnalyzed large-scale grocery transaction data to uncover customer purchasing patterns and segmentation insights.\nKey Focus: - Customer loyalty and ordering behavior\n- Product and department performance\n- Marketing and sales optimization insights\nTools: Python (Pandas, NumPy), Jupyter, Excel\nLinks:\n- GitHub: Repository"
+  },
+  {
+    "objectID": "projects.html#gun-violence-in-the-u.s.-20132018",
+    "href": "projects.html#gun-violence-in-the-u.s.-20132018",
+    "title": "Projects",
+    "section": "",
+    "text": "Header Icon: 🔫📉\nOverview:\nAnalyzed over 260,000 incidents to uncover temporal, geographic, and severity patterns using exploratory analysis, clustering, and time-series methods.\nKey Focus: - Time-series trends and seasonality\n- Geographic distribution and hotspots\n- Clustering of incident types and severity patterns\nTools: Python, Tableau, Jupyter\nLinks:\n- GitHub: Repository"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Get in Touch\nI’m open to discussing data analytics opportunities, collaborations, or interesting projects.\n\n📧 Email: oluwole.akorede@yahoo.com\n\n🔗 LinkedIn: https://www.linkedin.com/in/oluwole-oni-193b49163\n\n💻 GitHub: https://github.com/Oluwole-Oni"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Data Analyst with a foundation in Mechanical Engineering, holding a Bachelor of Engineering degree and an Automotive Master Certificate from the Community College of Baltimore County. Over the years, I worked extensively with diagnostic data, performance metrics, and system troubleshooting, experiences that shaped my analytical thinking and attention to detail.\nMy transition into data analytics was driven by a growing interest in how data patterns, trends, and visualizations can influence strategic decisions. Through the CareerFoundry Data Analytics program, I gained hands-on experience delivering end-to-end analytics projects using Python, SQL, Tableau, Excel, and Power BI.\nWhat sets me apart is the combination of engineering discipline and data storytelling. I’m comfortable working with complex datasets and equally comfortable translating insights for non-technical stakeholders. My goal is always to connect analysis to business value, operational efficiency, and informed decision-making.\nI am currently open to full-time Data Analyst opportunities and enjoy collaborating with teams that value clarity, evidence-based strategy, and continuous improvement.\n\n\n\n\nMechanical Engineering mindset applied to analytics problem-solving\n\nEnd-to-end projects: cleaning → EDA → insights → dashboards → recommendations\n\nStrong communication for technical and non-technical stakeholders"
+  },
+  {
+    "objectID": "about.html#highlights",
+    "href": "about.html#highlights",
+    "title": "About",
+    "section": "",
+    "text": "Mechanical Engineering mindset applied to analytics problem-solving\n\nEnd-to-end projects: cleaning → EDA → insights → dashboards → recommendations\n\nStrong communication for technical and non-technical stakeholders"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Data Analyst | Business Intelligence | Data Storytelling\nTurning complex data into clear, actionable business insights\n\n\n\n\nI’m a Data Analyst with a Mechanical Engineering background, bringing a structured, analytical mindset to data-driven decision-making. My journey from engineering and automotive diagnostics into analytics allows me to approach data problems with precision, curiosity, and a strong focus on real-world impact.\nI specialize in SQL, Python, Tableau, Excel, and Power BI, working across the full analytics lifecycle—from data cleaning and validation to insight generation and storytelling. I don’t just analyze numbers; I focus on why patterns exist, what they mean for the business, and how insights can drive smarter decisions.\n\n\n\n\n\nData Analytics & Business Insight\n\nData Visualization & Storytelling\n\nExploratory Data Analysis (EDA)\n\nForecasting & Time Series Analysis\n\nStatistical Testing & Hypothesis Validation\n\nData Cleaning, Integration & ETL\n\n\n\n\n\nPython (Pandas, NumPy) • SQL (PostgreSQL) • Tableau • Power BI • Excel • Jupyter • Anaconda\n\n\n\n\nExplore projects covering sales analysis, customer behavior, forecasting, public health, and social impact, built using Python, SQL, Tableau, and Excel.\n👉 Go to: Projects"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Home",
+    "section": "",
+    "text": "I’m a Data Analyst with a Mechanical Engineering background, bringing a structured, analytical mindset to data-driven decision-making. My journey from engineering and automotive diagnostics into analytics allows me to approach data problems with precision, curiosity, and a strong focus on real-world impact.\nI specialize in SQL, Python, Tableau, Excel, and Power BI, working across the full analytics lifecycle—from data cleaning and validation to insight generation and storytelling. I don’t just analyze numbers; I focus on why patterns exist, what they mean for the business, and how insights can drive smarter decisions."
+  },
+  {
+    "objectID": "index.html#core-skills",
+    "href": "index.html#core-skills",
+    "title": "Home",
+    "section": "",
+    "text": "Data Analytics & Business Insight\n\nData Visualization & Storytelling\n\nExploratory Data Analysis (EDA)\n\nForecasting & Time Series Analysis\n\nStatistical Testing & Hypothesis Validation\n\nData Cleaning, Integration & ETL"
+  },
+  {
+    "objectID": "index.html#tools",
+    "href": "index.html#tools",
+    "title": "Home",
+    "section": "",
+    "text": "Python (Pandas, NumPy) • SQL (PostgreSQL) • Tableau • Power BI • Excel • Jupyter • Anaconda"
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Home",
+    "section": "",
+    "text": "Explore projects covering sales analysis, customer behavior, forecasting, public health, and social impact, built using Python, SQL, Tableau, and Excel.\n👉 Go to: Projects"
+  }
+]
