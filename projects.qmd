@@ -37,7 +37,7 @@ Conducted exploratory and predictive analysis on influenza mortality data to sup
 
 **Tools:** Excel, Tableau, Python  
 **Links:**  
-- GitHub: [Repository](https://github.com/Oluwole-Oni/Preparing-for-Influenza-Season)
+- GitHub: [Repository](https://github.com/Oluwole-Oni/Preparing-for-flu-Season)
 
 ---
 
@@ -54,7 +54,7 @@ Performed advanced SQL analysis on customer, rental, and payment data to support
 
 **Tools:** PostgreSQL, SQL, Tableau, Power BI, DbVisualizer  
 **Links:**  
-- GitHub: [Repository](https://github.com/Oluwole-Oni/Rockbuster-Stealth-Data-Analysis)
+- GitHub: [Repository](https://github.com/Oluwole-Oni/SQL-Rockbuster-Stealth-Data-Analysis.)
 
 ---
 
@@ -88,4 +88,4 @@ Analyzed over 260,000 incidents to uncover temporal, geographic, and severity pa
 
 **Tools:** Python, Tableau, Jupyter  
 **Links:**  
-- GitHub: [Repository](https://github.com/Oluwole-Oni/Gun-Violence-in-the-USA-2013-2018)
+- GitHub: [Repository](https://github.com/Oluwole-Oni/Gun-violence-in-the-U.S.A-2013---2018-)
