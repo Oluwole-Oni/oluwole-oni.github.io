@@ -4,42 +4,42 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Below are selected projects showcasing business insight, storytelling, dashboards, and analytics workflows.\n\n\n\nHeader Icon: 🎮📊\nOverview:\nAnalyzed global video game sales data to uncover trends in genre popularity, platform performance, and regional demand.\nKey Focus: - Sales trends across regions and time\n- Top-performing genres and platforms\n- Data-driven recommendations for product strategy\nTools: Excel, Tableau, PowerPoint, SQL\n\n\n\n\nHeader Icon: 🦠📈\nOverview:\nConducted exploratory and predictive analysis on influenza mortality data to support healthcare staffing and resource allocation decisions.\nKey Focus: - State-level flu mortality trends\n- Risk analysis for populations aged 65+\n- Interactive dashboards for planning\nTools: Excel, Tableau, Python\nLinks:\n- GitHub: Repository\n\n\n\n\nHeader Icon: 🎬🗄️\nOverview:\nPerformed advanced SQL analysis on customer, rental, and payment data to support Rockbuster’s transition into online video rentals.\nKey Focus: - Database design & ER diagrams\n- Customer and revenue analysis\n- Regional performance insights\nTools: PostgreSQL, SQL, Tableau, Power BI, DbVisualizer\nLinks:\n- GitHub: Repository\n\n\n\n\nHeader Icon: 🛒📦\nOverview:\nAnalyzed large-scale grocery transaction data to uncover customer purchasing patterns and segmentation insights.\nKey Focus: - Customer loyalty and ordering behavior\n- Product and department performance\n- Marketing and sales optimization insights\nTools: Python (Pandas, NumPy), Jupyter, Excel\nLinks:\n- GitHub: Repository\n\n\n\n\nHeader Icon: 🔫📉\nOverview:\nAnalyzed over 260,000 incidents to uncover temporal, geographic, and severity patterns using exploratory analysis, clustering, and time-series methods.\nKey Focus: - Time-series trends and seasonality\n- Geographic distribution and hotspots\n- Clustering of incident types and severity patterns\nTools: Python, Tableau, Jupyter\nLinks:\n- GitHub: Repository"
+    "text": "Below are selected projects showcasing business insight, storytelling, dashboards, and analytics workflows.\n\n\n\n\nOverview:\nAnalyzed global video game sales data to uncover trends in genre popularity, platform performance, and regional demand.\nKey Focus: - Sales trends across regions and time\n- Top-performing genres and platforms\n- Data-driven recommendations for product strategy\nTools: Excel, Tableau, PowerPoint, SQL\n\n\n\n\n\nOverview:\nConducted exploratory and predictive analysis on influenza mortality data to support healthcare staffing and resource allocation decisions.\nKey Focus: - State-level flu mortality trends\n- Risk analysis for populations aged 65+\n- Interactive dashboards for planning\nTools: Excel, Tableau, Python\nLinks:\n- GitHub: Repository\n\n\n\n\n\nOverview:\nPerformed advanced SQL analysis on customer, rental, and payment data to support Rockbuster’s transition into online video rentals. Key Focus: - Database design & ER diagrams\n- Customer and revenue analysis\n- Regional performance insights\nTools: PostgreSQL, SQL, Tableau, Power BI, DbVisualizer\nLinks:\n- GitHub: Repository\n\n\n\n\n\nOverview:\nAnalyzed large-scale grocery transaction data to uncover customer purchasing patterns and segmentation insights.\nKey Focus: - Customer loyalty and ordering behavior\n- Product and department performance\n- Marketing and sales optimization insights\nTools: Python (Pandas, NumPy), Jupyter, Excel\nLinks:\n- GitHub: Repository\n\n\n\n\n\nOverview:\nAnalyzed over 260,000 incidents to uncover temporal, geographic, and severity patterns using exploratory analysis, clustering, and time-series methods.\nKey Focus: - Time-series trends and seasonality\n- Geographic distribution and hotspots\n- Clustering of incident types and severity patterns\nTools: Python, Tableau, Jupyter\nLinks:\n- GitHub: Repository"
   },
   {
     "objectID": "projects.html#gameco-video-game-sales-analysis",
     "href": "projects.html#gameco-video-game-sales-analysis",
     "title": "Projects",
     "section": "",
-    "text": "Header Icon: 🎮📊\nOverview:\nAnalyzed global video game sales data to uncover trends in genre popularity, platform performance, and regional demand.\nKey Focus: - Sales trends across regions and time\n- Top-performing genres and platforms\n- Data-driven recommendations for product strategy\nTools: Excel, Tableau, PowerPoint, SQL"
+    "text": "Overview:\nAnalyzed global video game sales data to uncover trends in genre popularity, platform performance, and regional demand.\nKey Focus: - Sales trends across regions and time\n- Top-performing genres and platforms\n- Data-driven recommendations for product strategy\nTools: Excel, Tableau, PowerPoint, SQL"
   },
   {
     "objectID": "projects.html#preparing-for-influenza-season",
     "href": "projects.html#preparing-for-influenza-season",
     "title": "Projects",
     "section": "",
-    "text": "Header Icon: 🦠📈\nOverview:\nConducted exploratory and predictive analysis on influenza mortality data to support healthcare staffing and resource allocation decisions.\nKey Focus: - State-level flu mortality trends\n- Risk analysis for populations aged 65+\n- Interactive dashboards for planning\nTools: Excel, Tableau, Python\nLinks:\n- GitHub: Repository"
+    "text": "Overview:\nConducted exploratory and predictive analysis on influenza mortality data to support healthcare staffing and resource allocation decisions.\nKey Focus: - State-level flu mortality trends\n- Risk analysis for populations aged 65+\n- Interactive dashboards for planning\nTools: Excel, Tableau, Python\nLinks:\n- GitHub: Repository"
   },
   {
     "objectID": "projects.html#rockbuster-stealth-data-analysis",
     "href": "projects.html#rockbuster-stealth-data-analysis",
     "title": "Projects",
     "section": "",
-    "text": "Header Icon: 🎬🗄️\nOverview:\nPerformed advanced SQL analysis on customer, rental, and payment data to support Rockbuster’s transition into online video rentals.\nKey Focus: - Database design & ER diagrams\n- Customer and revenue analysis\n- Regional performance insights\nTools: PostgreSQL, SQL, Tableau, Power BI, DbVisualizer\nLinks:\n- GitHub: Repository"
+    "text": "Overview:\nPerformed advanced SQL analysis on customer, rental, and payment data to support Rockbuster’s transition into online video rentals. Key Focus: - Database design & ER diagrams\n- Customer and revenue analysis\n- Regional performance insights\nTools: PostgreSQL, SQL, Tableau, Power BI, DbVisualizer\nLinks:\n- GitHub: Repository"
   },
   {
     "objectID": "projects.html#instacart-grocery-basket-analysis",
     "href": "projects.html#instacart-grocery-basket-analysis",
     "title": "Projects",
     "section": "",
-    "text": "Header Icon: 🛒📦\nOverview:\nAnalyzed large-scale grocery transaction data to uncover customer purchasing patterns and segmentation insights.\nKey Focus: - Customer loyalty and ordering behavior\n- Product and department performance\n- Marketing and sales optimization insights\nTools: Python (Pandas, NumPy), Jupyter, Excel\nLinks:\n- GitHub: Repository"
+    "text": "Overview:\nAnalyzed large-scale grocery transaction data to uncover customer purchasing patterns and segmentation insights.\nKey Focus: - Customer loyalty and ordering behavior\n- Product and department performance\n- Marketing and sales optimization insights\nTools: Python (Pandas, NumPy), Jupyter, Excel\nLinks:\n- GitHub: Repository"
   },
   {
     "objectID": "projects.html#gun-violence-in-the-u.s.-20132018",
     "href": "projects.html#gun-violence-in-the-u.s.-20132018",
     "title": "Projects",
     "section": "",
-    "text": "Header Icon: 🔫📉\nOverview:\nAnalyzed over 260,000 incidents to uncover temporal, geographic, and severity patterns using exploratory analysis, clustering, and time-series methods.\nKey Focus: - Time-series trends and seasonality\n- Geographic distribution and hotspots\n- Clustering of incident types and severity patterns\nTools: Python, Tableau, Jupyter\nLinks:\n- GitHub: Repository"
+    "text": "Overview:\nAnalyzed over 260,000 incidents to uncover temporal, geographic, and severity patterns using exploratory analysis, clustering, and time-series methods.\nKey Focus: - Time-series trends and seasonality\n- Geographic distribution and hotspots\n- Clustering of incident types and severity patterns\nTools: Python, Tableau, Jupyter\nLinks:\n- GitHub: Repository"
   },
   {
     "objectID": "contact.html",

@@ -8,8 +8,9 @@ Below are selected projects showcasing **business insight, storytelling, dashboa
 
 ---
 
-## 🎮 GameCo Video Game Sales Analysis
-**Header Icon:** 🎮📊
+## GameCo Video Game Sales Analysis
+
+![](project%20pic/GamCo%20pic.png)
 
 **Overview:**  
 Analyzed global video game sales data to uncover trends in genre popularity, platform performance, and regional demand.
@@ -24,8 +25,9 @@ Analyzed global video game sales data to uncover trends in genre popularity, pla
 
 ---
 
-## 🦠 Preparing for Influenza Season
-**Header Icon:** 🦠📈
+## Preparing for Influenza Season
+
+![](project%20pic/Preparing%20for%20influenza%20season%20pic.png)
 
 **Overview:**  
 Conducted exploratory and predictive analysis on influenza mortality data to support healthcare staffing and resource allocation decisions.
@@ -41,12 +43,12 @@ Conducted exploratory and predictive analysis on influenza mortality data to sup
 
 ---
 
-## 🎬 Rockbuster Stealth Data Analysis
-**Header Icon:** 🎬🗄️
+## Rockbuster Stealth Data Analysis
+
+![](project%20pic/Rockbuster%20pic.png)
 
 **Overview:**  
-Performed advanced SQL analysis on customer, rental, and payment data to support Rockbuster’s transition into online video rentals.
-
+Performed advanced SQL analysis on customer, rental, and payment data to support Rockbuster's transition into online video rentals.
 **Key Focus:**
 - Database design & ER diagrams  
 - Customer and revenue analysis  
@@ -58,8 +60,9 @@ Performed advanced SQL analysis on customer, rental, and payment data to support
 
 ---
 
-## 🛒 Instacart Grocery Basket Analysis
-**Header Icon:** 🛒📦
+## Instacart Grocery Basket Analysis
+
+![](project%20pic/Instacart%20pic.png)
 
 **Overview:**  
 Analyzed large-scale grocery transaction data to uncover customer purchasing patterns and segmentation insights.
@@ -75,8 +78,9 @@ Analyzed large-scale grocery transaction data to uncover customer purchasing pat
 
 ---
 
-## 🔫 Gun Violence in the U.S. (2013–2018)
-**Header Icon:** 🔫📉
+## Gun Violence in the U.S. (2013–2018)
+
+![](project%20pic/Gunviolence%20pic.png)
 
 **Overview:**  
 Analyzed over 260,000 incidents to uncover temporal, geographic, and severity patterns using exploratory analysis, clustering, and time-series methods.
