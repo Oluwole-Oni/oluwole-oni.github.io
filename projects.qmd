@@ -10,7 +10,7 @@ Below are selected projects showcasing **business insight, storytelling, dashboa
 
 ## GameCo Video Game Sales Analysis
 
-![](project%20pic/GamCo%20pic.png)
+![](project%20pic/GameCo%20pic.png)
 
 **Overview:**  
 Analyzed global video game sales data to uncover trends in genre popularity, platform performance, and regional demand.
