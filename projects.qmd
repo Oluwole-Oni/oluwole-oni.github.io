@@ -15,6 +15,17 @@ Below are selected projects showcasing **business insight, storytelling, dashboa
 **Overview:**  
 Analyzed global video game sales data to uncover trends in genre popularity, platform performance, and regional demand.
 
+**Problem/Goal:**  
+GameCo aims to leverage data-driven insights to guide the development of new games and forecast their potential performance in the market.
+
+**Data:**  
+Historical sales of video games dataset sourced from VGChartz. It tracks the total number of units of games sold (not financial figures) from 1980 to 2016. The numbers represent units sold in millions.
+
+**Methodology:**  
+*Data Cleaning:* The GameCo dataset was thoroughly cleaned to ensure accuracy and consistency before analysis. Missing values were handled through mean imputation for regional sales columns, while the NA Units column and an empty final row were removed. Duplicates and blank entries were corrected, special characters in game names were standardized, and all sales figures were rounded to two decimal places.
+
+*Data Processing:* Descriptive statistical techniques were applied to summarize sales data across genres, publishers, and regions. Data was grouped and aggregated using Excel and Pivot tables to identify sales trends, regional performance variations, and changes in game popularity over time. Visualizations such as bar charts and line graphs were created to highlight key insights.
+
 **Key Focus:**
 - Sales trends across regions and time  
 - Top-performing genres and platforms  
@@ -31,6 +42,17 @@ Analyzed global video game sales data to uncover trends in genre popularity, pla
 
 **Overview:**  
 Conducted exploratory and predictive analysis on influenza mortality data to support healthcare staffing and resource allocation decisions.
+
+**Goal:**  
+To use influenza trends to provide insights to help a medical staffing agency that provides temporary workers to clinics and hospitals on an as-needed basis.
+
+**Data:**  
+Influenza deaths by geography sourced from U.S. Centers for Disease Control and Prevention, and population data by geography, time, age, and gender sourced from US Census Bureau. The datasets span from 2009 to 2017 and provide detailed counts of influenza-related deaths by state and age group.
+
+**Methodology:**  
+*Data Cleaning:* Performed comprehensive data cleaning on both datasets, including profiling and integrity checks to ensure consistency and accuracy. This included renaming and formatting variables, validating data types, and addressing missing values.
+
+*Data Processing:* Integrated flu mortality data with state population data to build a unified, analysis-ready dataset. Conducted statistical hypothesis testing to assess the relationship between the vulnerable population (age 65+) and flu-related deaths across states. Developed a range of Tableau visualizations including temporal trends, forecasts, statistical plots, and spatial maps to uncover key patterns and highlight geographic disparities.
 
 **Key Focus:**
 - State-level flu mortality trends  
@@ -49,6 +71,18 @@ Conducted exploratory and predictive analysis on influenza mortality data to sup
 
 **Overview:**  
 Performed advanced SQL analysis on customer, rental, and payment data to support Rockbuster's transition into online video rentals.
+
+**Goal:**  
+Rockbuster Stealth LLC aims to transition into the online video rental market to remain competitive against streaming giants like Netflix and Amazon Prime. The management team seeks data-driven insights from existing customer and rental data to guide strategic decisions for their business plan.
+
+**Data:**  
+Dataset containing information about Film Inventory, Customers Information, and Payment Transactions sourced from Rockbuster's internal records.
+
+**Methodology:**  
+*Data Cleaning:* All available data was loaded into a relational database management system (RDBMS) to ensure proper storage, structure, and integration across tables. SQL was used extensively to explore and clean the data, filtering out irrelevant or duplicate records, and handling missing or incorrect values.
+
+*Data Processing:* DbVisualizer was used to create an entity relationship diagram (ERD) to clearly understand table connections and database structure. Data from multiple tables was combined using SQL joins to build complete views of customer, film, rental, and payment information. Subqueries were employed to extract targeted metrics, and Common Table Expressions (CTEs) were used to simplify multi-step transformations and improve query readability.
+
 **Key Focus:**
 - Database design & ER diagrams  
 - Customer and revenue analysis  
@@ -67,6 +101,17 @@ Performed advanced SQL analysis on customer, rental, and payment data to support
 **Overview:**  
 Analyzed large-scale grocery transaction data to uncover customer purchasing patterns and segmentation insights.
 
+**Goal:**  
+Instacart, an app-based online grocery platform, aims to analyze its sales data more deeply to uncover patterns and provide insights for improved customer segmentation and strategic decision-making.
+
+**Data:**  
+Instacart Online Grocery Shopping Dataset (2017) sourced from Kaggle, along with a Customer Dataset provided specifically for analysis in this project.
+
+**Methodology:**  
+*Data Cleaning:* All Instacart datasets were imported into Python and prepared for analysis through careful data cleaning. This included wrangling and sub-setting to focus on relevant data, performing consistency checks to correct duplicates, handle missing values, and standardize formats.
+
+*Data Processing:* Processed all datasets to generate meaningful insights. This included combining datasets for a comprehensive view, deriving new variables such as loyalty_flag and busiest_period_of_day, and grouping and aggregating data to summarize trends across products, customers, and departments.
+
 **Key Focus:**
 - Customer loyalty and ordering behavior  
 - Product and department performance  
@@ -84,6 +129,17 @@ Analyzed large-scale grocery transaction data to uncover customer purchasing pat
 
 **Overview:**  
 Analyzed over 260,000 incidents to uncover temporal, geographic, and severity patterns using exploratory analysis, clustering, and time-series methods.
+
+**Goal:**  
+Gun violence is a critical public health issue in the United States. This analysis investigates gun violence trends from 2013-2018 to uncover actionable insights and support the development of potential solutions for creating a safer, non-violent society.
+
+**Data:**  
+Gun violence dataset containing over 260,000 recorded gun violence incidents spanning January 2013 to March 2018. Each entry includes up to 29 variables such as incident date, city and state, geographic coordinates, number of fatalities and injuries, weapon details, and participant demographics.
+
+**Methodology:**  
+*Data Cleaning:* The dataset initially contained 239,677 rows and 29 variables. Data cleaning began with validating and correcting variable data types, followed by a systematic assessment of missing values. Variables with excessive missing data (>70%) or low analytical relevance were removed. Variables that were analytically useful but incomplete were retained, with missing categorical values filled as "Unknown" and numerical values imputed using the median.
+
+*Data Processing:* The dataset was systematically processed and analyzed using multiple analytical approaches. This included the creation of geographic visualizations to examine spatial distribution across states, time-series analysis to uncover temporal trends and structural shifts, and both supervised and unsupervised machine learning techniques to identify patterns and classify incident types.
 
 **Key Focus:**
 - Time-series trends and seasonality  
