@@ -27,7 +27,7 @@ Analyzed global video game sales data to uncover trends in genre popularity, pla
 
 ## Preparing for Influenza Season
 
-![](project%20pic/Preparing%20for%20influenza%20season%20pic.png)
+![](project%20pic/Preparing%20for%20Influnza%20season%20pic.png)
 
 **Overview:**  
 Conducted exploratory and predictive analysis on influenza mortality data to support healthcare staffing and resource allocation decisions.
