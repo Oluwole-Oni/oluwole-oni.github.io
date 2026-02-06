@@ -32,6 +32,8 @@ Historical sales of video games dataset sourced from VGChartz. It tracks the tot
 - Data-driven recommendations for product strategy
 
 **Tools:** Excel, Tableau, PowerPoint, SQL  
+**Links:**  
+- GitHub: [Repository](https://github.com/Oluwole-Oni/GameCo-Sales-Analysis)
 
 
 ---
